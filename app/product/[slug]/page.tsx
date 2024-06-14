@@ -1,6 +1,6 @@
 import { fullProduct } from "@/app/interface";
 import { client } from "@/app/lib/sanity";
-import ImageGallery from "@/app/components/ImageGallery";
+import ImageGallery from "@/app/components/imageGallery";
 import { Star, Truck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import AddToBag from "@/app/components/AddToBag";
